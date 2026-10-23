@@ -13,9 +13,6 @@ password = input("กรุณาตั้ง Password:")
 # นับจำนวนตัวอักษรในรหัสผ่านเพื่อใช้ตรวจระดับความยาว
 count_characters = len(password)
 
-# แสดงรหัสผ่านที่ผู้ใช้กรอก
-print(f"Enter password: {password}") # แสดงพาสเวิร์ดที่เลือก
-
 # ใส่เงื่อนไข
 # ตรวจว่ารหัสผ่านมีความยาวน้อยกว่า 8 ตัวหรือไม่
 if count_characters < 8:

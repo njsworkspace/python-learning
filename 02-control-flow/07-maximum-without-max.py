@@ -23,4 +23,4 @@ for number in numbers:
 
 
 # แสดงค่าสูงสุดที่หาได้
-print(f"Maximux value: {highest}")
+print(f"Maximum value: {highest}")
