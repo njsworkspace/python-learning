@@ -47,7 +47,7 @@
 
 
 
-1. บันทึกโค้ดเป็นไฟล์ Python เช่น `financial_calculator.py`
+1. บันทึกโค้ดเป็นไฟล์ Python เช่น `personal-finance-calculator.py`
 
 2. เปิดเทอร์มินัลในโฟลเดอร์ที่บันทึกไฟล์
 
@@ -62,7 +62,7 @@ Bash
 
 
 ```
-python financial_calculator.py
+python personal-finance-calculator.py
 
 ```
 
@@ -72,7 +72,7 @@ python financial_calculator.py
 
 
 
-หากระบบใช้คำสั่ง `python3` ให้เรียก `python3 financial_calculator.py` แทน
+หากระบบใช้คำสั่ง `python3` ให้เรียก `python3 personal-finance-calculator.py` แทน
 
 4. กรอกจำนวนเงินเมื่อโปรแกรมถาม
 
