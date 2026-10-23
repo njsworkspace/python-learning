@@ -1,4 +1,4 @@
-# Start: Financial Calculator
+# Start: Personal Finance Calculator
 
 # Input: User's financial data
 income_amount = float(input("Enter your monthly income: "))
@@ -28,4 +28,4 @@ print(f"Utilities expenses rate: {utilities_rate:.2%}")
 print(f"Transportation expenses rate: {transportation_rate:.2%}")
 print(f"Savings rate: {savings_rate:.2%}")
 
-# End: Financial Calculator
+# End: Personal Finance Calculator
